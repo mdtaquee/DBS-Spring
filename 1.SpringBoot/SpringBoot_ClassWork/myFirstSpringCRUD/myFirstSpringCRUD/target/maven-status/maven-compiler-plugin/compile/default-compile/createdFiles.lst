@@ -1,0 +1,5 @@
+com\sunsoft\MyFirstSpringCrudApplication.class
+com\sunsoft\model\StudentData.class
+com\sunsoft\dao\StudentDao.class
+com\sunsoft\repository\StudentRepository.class
+com\sunsoft\controller\StudentController.class
